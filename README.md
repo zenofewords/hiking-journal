@@ -1,3 +1,3 @@
 # hiking-journal
 
-hello
+hello, friends
